@@ -1,0 +1,3 @@
+# Tkinter is included with most Python installs.
+# Optional for hotkey action support:
+# pyautogui>=0.9.54
